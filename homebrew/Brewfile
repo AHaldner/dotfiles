@@ -1,0 +1,55 @@
+tap "charmbracelet/tap"
+tap "moonrepo/tap"
+tap "th-ch/youtube-music"
+# General-purpose data compression with high compression ratio
+brew "xz"
+# Cryptography and SSL/TLS Toolkit
+brew "openssl@3"
+# Get a file from an HTTP, HTTPS or FTP server
+brew "curl"
+# Modern, maintained replacement for ls
+brew "eza"
+# Like neofetch, but much faster because written mostly in C
+brew "fastfetch"
+# Simple, fast and user-friendly alternative to find
+brew "fd"
+# Play, record, convert, and stream audio and video
+brew "ffmpeg"
+# GitHub command-line tool
+brew "gh"
+# Distributed revision control system
+brew "git"
+# Statically typed language for the Erlang VM
+brew "gleam"
+# Command-line interface for SQLite
+brew "sqlite"
+# Fast, highly customisable system info script with LGBTQ+ pride flags
+brew "hyfetch"
+# Manipulate OpenType and multiple-master fonts
+brew "lcdf-typetools"
+# System information fetcher, with an emphasis on performance and minimalism
+brew "macchina"
+# MongoDB CLI enables you to manage your MongoDB in the Cloud
+brew "mongocli"
+# Prompt theme engine for any shell
+brew "oh-my-posh"
+# General-purpose scripting language
+brew "php"
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
+# Interactive SQL shell for Turso
+brew "turso"
+# Internet file retriever
+brew "wget"
+# Feature-rich command-line audio/video downloader
+brew "yt-dlp"
+# General-purpose lossless data-compression library
+brew "zlib"
+# Shell extension to navigate your filesystem faster
+brew "zoxide"
+# UNIX shell (command interpreter)
+brew "zsh"
+# The SSH directory
+brew "charmbracelet/tap/wishlist"
+# YouTube Music Desktop App
+cask "youtube-music"
